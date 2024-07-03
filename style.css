@@ -1,0 +1,11 @@
+.name{
+    width: 700px;
+    height: 450px;
+    background-color: aqua;
+}
+#name{
+    margin-left: 2px;
+}
+.border{
+    float: left;
+}
